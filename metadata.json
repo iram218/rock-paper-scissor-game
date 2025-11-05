@@ -1,0 +1,7 @@
+{
+  "name": "Rock Paper Scissors AI",
+  "description": "A web application that uses your camera to recognize hand gestures for a game of Rock, Paper, Scissors against an AI opponent.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
